@@ -1,8 +1,5 @@
 # Wallpapers
 A beginner-friendly HTML wallpaper gallery featuring categorized wallpapers with external reference links to the original images.
-#  Wallpapers
-
-A beginner-friendly HTML mini-project that showcases a collection of cute wallpapers organized into different categories.
 
 ##  Categories
 
